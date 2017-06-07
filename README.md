@@ -3,7 +3,7 @@
 Source Code Media Pembelajaran dibuat dengan Adobe Flash CS 6 dan bahasa pemrograman ActionScript 3 dengan isi materi yaitu pengetahuan binatang
 
 ## Tutorial Step by Step Cara Membuat Media Pembelajaran dibuat dengan Adobe Flash CS 6 dan bahasa pemrograman ActionScript 3 dengan isi materi yaitu pengetahuan binatang
-Ikuti di [Playlist Seri Video Tutorialnya](https://www.youtube.com/playlist?list=PLFLsT6z_5FzkKx8qiO1b1aYrottfvmLog) di **YouTube**
+Ikuti di [Playlist Seri Video Tutorialnya](https://www.youtube.com/playlist?list=PLFLsT6z_5FzmIPk3u8TjkZqgfNbkgOuh5) di **YouTube**
 
 1. [PART 1](https://www.youtube.com/watch?v=Fp6slLiceU4&index=1&list=PLFLsT6z_5FzmIPk3u8TjkZqgfNbkgOuh5)
 2. [PART 2](https://www.youtube.com/watch?v=JK_9durqzkQ&index=2&list=PLFLsT6z_5FzmIPk3u8TjkZqgfNbkgOuh5)
